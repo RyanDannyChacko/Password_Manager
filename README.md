@@ -1,4 +1,4 @@
-# Password_Manager_v1
+# Password_Manager
  A password manager that can store passwords or generate a strong password for the user
 
 ## Installation
